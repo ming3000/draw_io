@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T03:40:47.624Z" agent="5.0 (Macintosh)" version="16.0.3" etag="rRg69fE6CRKB1M2D_l-L" type="github"><diagram id="3f5J3Do_gWRIrY-zB68Y">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-24T03:46:08.936Z" agent="5.0 (Macintosh)" etag="s0WR9KwBSkoC1t20wOuQ" version="16.0.3" type="github">
+  <diagram id="3f5J3Do_gWRIrY-zB68Y" name="Page-1">
+    <mxGraphModel dx="946" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5MQ09c06MS1mv87pgXlI-1" value="选举" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5MQ09c06MS1mv87pgXlI-2" value="日志复制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5MQ09c06MS1mv87pgXlI-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5MQ09c06MS1mv87pgXlI-4" value="Term 1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Courier New;fontColor=#FFFFFF;fillColor=#333333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="70" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5MQ09c06MS1mv87pgXlI-5" value="选举" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5MQ09c06MS1mv87pgXlI-6" value="日志复制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5MQ09c06MS1mv87pgXlI-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="180" y="120" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5MQ09c06MS1mv87pgXlI-8" value="Term 2" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Courier New;fontColor=#FFFFFF;fillColor=#333333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="210" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5MQ09c06MS1mv87pgXlI-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="350" y="120" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5MQ09c06MS1mv87pgXlI-12" value="Term 3" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Courier New;fontColor=#FFFFFF;fillColor=#333333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="350" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5MQ09c06MS1mv87pgXlI-15" value="选举失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
