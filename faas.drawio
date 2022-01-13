@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T01:49:17.080Z" agent="5.0 (Macintosh)" etag="twyxhyw26NgICSf3rqGp" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T01:50:51.640Z" agent="5.0 (Macintosh)" etag="1RXDx1L4HTy7AR7kiqeG" version="16.2.4" type="github">
   <diagram id="bE9tsUGRjl7XfyiEoqof" name="Page-1">
     <mxGraphModel dx="4734" dy="1936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -376,7 +376,7 @@
         <mxCell id="jAI64jkiMMCqUW5UmXmu-5" value="启动容器" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=14;fontColor=#ffffff;fillColor=#0066CC;strokeColor=#005700;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-2664" y="1820" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jAI64jkiMMCqUW5UmXmu-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="jAI64jkiMMCqUW5UmXmu-6" target="jAI64jkiMMCqUW5UmXmu-7">
+        <mxCell id="jAI64jkiMMCqUW5UmXmu-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;strokeWidth=3;" edge="1" parent="1" source="jAI64jkiMMCqUW5UmXmu-6" target="jAI64jkiMMCqUW5UmXmu-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jAI64jkiMMCqUW5UmXmu-6" value="启动 Runtime" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=14;fontColor=#ffffff;fillColor=#0066CC;strokeColor=#005700;fontFamily=Comic Sans MS;" vertex="1" parent="1">
@@ -413,6 +413,12 @@
             <mxPoint x="-2660" y="2200" as="sourcePoint" />
             <mxPoint x="-2570" y="2020" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jAI64jkiMMCqUW5UmXmu-21" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=14;fillColor=#0066CC;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="-2350" y="1785" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jAI64jkiMMCqUW5UmXmu-22" value="冷启动" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=14;fontColor=#ffffff;fillColor=#a20025;strokeColor=#6F0000;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="-2300" y="1815" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
