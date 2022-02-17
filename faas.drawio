@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T05:42:07.779Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="NMd3In576vhp3I_QJmlW" version="16.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-17T06:04:19.890Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="hS0qbq7xdZT5dAioqiar" version="16.2.1" type="github">
   <diagram id="bE9tsUGRjl7XfyiEoqof" name="Page-1">
     <mxGraphModel dx="4734" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -686,6 +686,84 @@
         </mxCell>
         <mxCell id="iABStFlLnsxnERCXFDgk-66" value="消息日志文件" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#005700;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="-2386.5" y="3280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iABStFlLnsxnERCXFDgk-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=14;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="iABStFlLnsxnERCXFDgk-73" target="iABStFlLnsxnERCXFDgk-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iABStFlLnsxnERCXFDgk-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=14;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="iABStFlLnsxnERCXFDgk-73" target="iABStFlLnsxnERCXFDgk-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iABStFlLnsxnERCXFDgk-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=14;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="iABStFlLnsxnERCXFDgk-73" target="iABStFlLnsxnERCXFDgk-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iABStFlLnsxnERCXFDgk-73" value="消息状态元数据" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#005700;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="-3272.37" y="3950" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iABStFlLnsxnERCXFDgk-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;fontSize=14;fontColor=#000000;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iABStFlLnsxnERCXFDgk-74" target="iABStFlLnsxnERCXFDgk-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iABStFlLnsxnERCXFDgk-74" value="index.json" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#005700;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="-3090.5" y="4060" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iABStFlLnsxnERCXFDgk-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=14;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="iABStFlLnsxnERCXFDgk-75" target="iABStFlLnsxnERCXFDgk-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iABStFlLnsxnERCXFDgk-75" value="meta.json" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#005700;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="-3090" y="3780" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iABStFlLnsxnERCXFDgk-78" value="本节点管理的消息 hash key 范围" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#005700;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="-2921" y="3970" width="251" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iABStFlLnsxnERCXFDgk-79" value="本节点最新写入消息所在&lt;br&gt;chunk文件的文件名" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#005700;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="-2921" y="4020" width="251" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iABStFlLnsxnERCXFDgk-80" value="本节点最新写入消息所在&lt;br&gt;chunk文件中的文件偏移量" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#005700;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="-2921" y="4060" width="251" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iABStFlLnsxnERCXFDgk-81" value="本节点最新已读消息所在&lt;br&gt;chunk文件的文件名" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#005700;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="-2921" y="4100" width="251" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iABStFlLnsxnERCXFDgk-82" value="本节点最新已读消息所在&lt;br&gt;chunk文件中的文件偏移量" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#005700;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="-2921" y="4140" width="251" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iABStFlLnsxnERCXFDgk-84" value="消息chunk文件 1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#005700;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="-3090.5" y="4210" width="141.87" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iABStFlLnsxnERCXFDgk-85" value="消息chunk文件 2" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#005700;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="-3090.5" y="4260" width="141.87" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iABStFlLnsxnERCXFDgk-86" value="......" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#005700;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="-3090.5" y="4310" width="141.87" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iABStFlLnsxnERCXFDgk-87" value="消息chunk文件 x" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#005700;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="-3090.5" y="4360" width="141.87" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iABStFlLnsxnERCXFDgk-89" value="节点 1 管理的消息 hash key 范围" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#005700;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="-2894" y="3780" width="257.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iABStFlLnsxnERCXFDgk-90" value="节点 1 最新写入消息&lt;br&gt;的 hash key" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#005700;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="-2635.25" y="3780" width="178.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iABStFlLnsxnERCXFDgk-91" value="本节点最新写入消息&lt;br&gt;的 hash key" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#005700;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="-2921" y="4180" width="251" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iABStFlLnsxnERCXFDgk-92" value="本节点最新已读消息&lt;br&gt;的 hash key" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#005700;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="-2921" y="4220" width="251" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iABStFlLnsxnERCXFDgk-93" value="节点 1 最新已读消息&lt;br&gt;的 hash key" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#005700;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="-2455.25" y="3780" width="178.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iABStFlLnsxnERCXFDgk-94" value="节点 2 管理的消息 hash key 范围" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#005700;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="-2894" y="3820" width="257.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iABStFlLnsxnERCXFDgk-95" value="节点 2 最新写入消息&lt;br&gt;的 hash key" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#005700;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="-2635.25" y="3820" width="178.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iABStFlLnsxnERCXFDgk-96" value="节点 2 最新已读消息&lt;br&gt;的 hash key" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#005700;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="-2455.25" y="3820" width="178.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iABStFlLnsxnERCXFDgk-97" value="......" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fontSize=14;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#005700;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="-2894" y="3860" width="257.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
